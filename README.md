@@ -108,5 +108,5 @@ YOY SALES GROWTH                   |       BUDGETED VARIANCE
 
 
 
-I'm available to answer any questions and receive recommendation you have concerning this project.
+I'm available to answer any questions and receive any recommendations you have concerning this project.
 Let's connect on [Linkedin](https://www.linkedin.com/in/victor-onyeaghala-08a909167/) and on [Twitter](https://www.twitter.com/_char_lez)
