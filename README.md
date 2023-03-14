@@ -54,8 +54,49 @@ Monthly Trend of Sales
 YOY sales Growth% and Current Sales by product name
 Current sales trend by year
 
+### Downlaod PowerBI report [here](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Sales%20Analysis%20Dashboard.pbix) and interact with it 
+
 You can downlaod a Pdf version of the report [here](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Sales%20Analysis%20Dashboard.pdf)
 
+## KEY PROCESS INVOLVED
+For the sake of documentation I woul go through a step by stwp process of how certain mesaures were created that aided in developing this dashboard.
+
+##### 1. A new table name **Date Dim** short for Date Dimension was created, and this was cretaed to extracted the date from the tables using the _**CALENDERAUTO()_** function. Then the Quarter and month column was created.
+ Picture is shown below
+ 
+DATE DIM TABLE WITH CALENDERAUTO FUNCTION   |       EXTRACTED YEAR AND MONTH                  
+:------------------------------------------:|:-------------------------------:
+![](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Screenshot%20(508).png) | ![](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Screenshot%20(509).png)
+
+#### 2. Created the **Current Year**, CY measure whereby I used the lastest year in the Date Dim table by selecting the _Maximum_ Function, the calculated the total sum of sales fro that year using the _Calculate and Sum Function_
 
 
+
+![](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Screenshot%20(515).png)
+
+
+#### 3. Created the **Previous Year** , PY measure by refrencing the CY Sales meaure **AND** _THESAMEPERIODLASTYEAR_ from the Date Dim Table
+
+
+![](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Screenshot%20(516).png)
+
+#### 4. Created the **Budgeted Sales** measure by repeating the steps in created CY measure but changing _'Sales Amount'_ to _'Budgeted Amt'_
+
+
+![](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Screenshot%20(513).png)
+
+#### 5. **YOY Sales Growth** and **Budgeted Varince** the same way, just basic maths:
+
+
+YOY SALES GROWTH                   |       BUDGETED VARIANCE                  
+:---------------------------------:|:-------------------------------:
+![](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Screenshot%20(512).png) | ![](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Screenshot%20(514).png)
+
+
+
+
+## RECOMMENDATION AND CONCLUSION
+- From the report it's seen that Product Category 3 and 1 accounts for over 60% of revenue generated, so more effort should be put in to ensure it remains that way and cusotomers do not churn, thus quality and standard of product should be looking to imporve
+- From forcast, sales for next year seems to be on the positive side, which is a good sig for the company ensuring all things stay equal.
+- More research shouldbe carried out to uderstand why Product category 4 and 2 don't generte revenue as muxh as they were budgeted to, this insight would be incredibly helpful to know the next line of action to take to ensure revenue generation of the company increasees year by year. Possible solution could be improving marketing campaign. 
 
