@@ -1,4 +1,6 @@
 # Sales-Analysis-Viz
+![](Sales Analysis Dashboard.png)
+
 ### Power BI Visualization Reporting Sales Analysis over time
 
 ## INTRODUCTION
