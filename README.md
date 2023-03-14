@@ -100,3 +100,13 @@ YOY SALES GROWTH                   |       BUDGETED VARIANCE
 - From forcast, sales for next year seems to be on the positive side, which is a good sig for the company ensuring all things stay equal.
 - More research shouldbe carried out to uderstand why Product category 4 and 2 don't generte revenue as muxh as they were budgeted to, this insight would be incredibly helpful to know the next line of action to take to ensure revenue generation of the company increasees year by year. Possible solution could be improving marketing campaign. 
 
+
+## Thank You
+![](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Thank%20you.jpg)
+
+
+
+
+
+I'm available to answer any questions and receive recommendation you have concerning this project.
+Let's connect on [Linkedin](https://www.linkedin.com/in/victor-onyeaghala-08a909167/) and on [Twitter](https://www.twitter.com/_char_lez)
