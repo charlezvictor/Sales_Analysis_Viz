@@ -98,7 +98,7 @@ YOY SALES GROWTH                   |       BUDGETED VARIANCE
 ## RECOMMENDATION AND CONCLUSION
 - From the report it's seen that Product Category 3 and 1 accounts for over 60% of revenue generated, so more effort should be put in to ensure it remains that way and cusotomers do not churn, thus quality and standard of product should be looking to imporve
 - From forcast, sales for next year seems to be on the positive side, which is a good sig for the company ensuring all things stay equal.
-- More research shouldbe carried out to uderstand why Product category 4 and 2 don't generte revenue as muxh as they were budgeted to, this insight would be incredibly helpful to know the next line of action to take to ensure revenue generation of the company increasees year by year. Possible solution could be improving marketing campaign. 
+- More research should be carried out to uderstand why Product category 4 and 2 don't generte revenue as muxh as they were budgeted to, this insight would be incredibly helpful to know the next line of action to take to ensure revenue generation of the company increasees year by year. Possible solution could be improving marketing campaign. 
 
 
 ## Thank You
